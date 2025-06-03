@@ -1,0 +1,828 @@
+{
+  "kind": "books#volumes",
+  "totalItems": 1000000,
+  "items": [
+    {
+      "kind": "books#volume",
+      "id": "dZo6DAAAQBAJ",
+      "etag": "LlkdCxEUME8",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/dZo6DAAAQBAJ",
+      "volumeInfo": {
+        "title": "The Picture of Dorian Gray",
+        "authors": [
+          "Oscar Wilde"
+        ],
+        "publisher": "Xist Publishing",
+        "publishedDate": "2016-03-24",
+        "description": "The Picture of Dorian Gray by Oscar Wilde from Coterie Classics All Coterie Classics have been formatted for ereaders and devices and include a bonus link to the free audio book. “Those who find ugly meanings in beautiful things are corrupt without being charming. This is a fault. Those who find beautiful meanings in beautiful things are the cultivated. For these there is hope. They are the elect to whom beautiful things mean only Beauty. There is no such thing as a moral or an immoral book. Books are well written, or badly written. That is all.” ― Oscar Wilde, The Picture of Dorian Gray A man sells his soul for eternal youth and scandalizes the city in Oscar Wilde's The Picture of Dorian Gray.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781681958972"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "168195897X"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 229,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "1.3.2.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=dZo6DAAAQBAJ&printsec=frontcover&img=1&zoom=2&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=dZo6DAAAQBAJ&printsec=frontcover&img=1&zoom=2&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.ie/books?id=dZo6DAAAQBAJ&printsec=frontcover&dq=Dorian%2520gray%2520oscar%2520wilde&hl=&cd=1&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=dZo6DAAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=dZo6DAAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "IE",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 9.24,
+          "currencyCode": "EUR"
+        },
+        "retailPrice": {
+          "amount": 9.24,
+          "currencyCode": "EUR"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=dZo6DAAAQBAJ&rdid=book-dZo6DAAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 9240000,
+              "currencyCode": "EUR"
+            },
+            "retailPrice": {
+              "amountInMicros": 9240000,
+              "currencyCode": "EUR"
+            }
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "IE",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.ie/books/download/The_Picture_of_Dorian_Gray-sample-epub.acsm?id=dZo6DAAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.ie/books/download/The_Picture_of_Dorian_Gray-sample-pdf.acsm?id=dZo6DAAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=dZo6DAAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "The Picture of Dorian Gray by Oscar Wilde from Coterie Classics All Coterie Classics have been formatted for ereaders and devices and include a bonus link to the free audio book. “Those who find ugly meanings in beautiful things are ..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "JTq1wgEACAAJ",
+      "etag": "aTyL9BX2h9Q",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/JTq1wgEACAAJ",
+      "volumeInfo": {
+        "title": "Proverbs of Hell",
+        "authors": [
+          "William Blake"
+        ],
+        "publishedDate": "1982",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:1086632534"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 27,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "en",
+        "previewLink": "http://books.google.ie/books?id=JTq1wgEACAAJ&dq=Dorian%2520gray%2520oscar%2520wilde&hl=&cd=2&source=gbs_api",
+        "infoLink": "http://books.google.ie/books?id=JTq1wgEACAAJ&dq=Dorian%2520gray%2520oscar%2520wilde&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Proverbs_of_Hell.html?hl=&id=JTq1wgEACAAJ"
+      },
+      "saleInfo": {
+        "country": "IE",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "IE",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=JTq1wgEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "i4iJPQAACAAJ",
+      "etag": "JycgYW1xDvQ",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/i4iJPQAACAAJ",
+      "volumeInfo": {
+        "title": "The Best of Richard Rodgers",
+        "authors": [
+          "Richard Rodgers"
+        ],
+        "publisher": "Hal Leonard Publishing Corporation",
+        "publishedDate": "2002-07",
+        "description": "This collection features 20 terrific Rodgers songs from favorite Broadway productions, arranged for fingerstyle guitar with notes and tab. Includes: Bali Ha'i * Bewitched * Edelweiss * Hello, Young Lovers * If I Loved You * Isn't It Romantic? * It Might as Well Be Spring * My Favorite Things * My Funny Valentine * Oh, What a Beautiful Mornin' * Some Enchanted Evening * The Sound of Music * You'll Never Walk Alone * and more!",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "0634036661"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9780634036668"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 0,
+        "printType": "BOOK",
+        "categories": [
+          "Guitar music, Arranged"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=i4iJPQAACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=i4iJPQAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.ie/books?id=i4iJPQAACAAJ&dq=Dorian%2520gray%2520oscar%2520wilde&hl=&cd=3&source=gbs_api",
+        "infoLink": "http://books.google.ie/books?id=i4iJPQAACAAJ&dq=Dorian%2520gray%2520oscar%2520wilde&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_Best_of_Richard_Rodgers.html?hl=&id=i4iJPQAACAAJ"
+      },
+      "saleInfo": {
+        "country": "IE",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "IE",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=i4iJPQAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "This collection features 20 terrific Rodgers songs from favorite Broadway productions, arranged for fingerstyle guitar with notes and tab."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "ZEaxmwG9n4EC",
+      "etag": "P7JjkGz9pjk",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/ZEaxmwG9n4EC",
+      "volumeInfo": {
+        "title": "The Wow Factor",
+        "subtitle": "Global research compendium on the impact of the arts in education",
+        "authors": [
+          "Anne Bamford"
+        ],
+        "publisher": "Waxmann Verlag",
+        "publishedDate": "2006",
+        "description": "More than ever before, the arts are shaping and influencing our daily lives through the media and the creative industries. The arts are no longer confined to museums and theatres, but are adding value to our national economies and improving the quality of education. This has implications for arts education. However, unlike other subjects taught at schools, the arts have rarely made their purpose clear: Why are they taught? What is good arts education? And what are the benefits of teaching creative subjects or using creative ways to teach? In 2004 Professor Anne Bamford conducted the first international analysis of arts education research for UNESCO, in partnership with IFACCA and the Australia Council. Comparing data and case studies from more than 60 countries, the book analyses the differences between 'education in the arts' and 'education through the arts'. While appreciating that arts programmes are embedded in their unique social and cultural contexts, Professor Bamford develops internationally comparable standards for quality arts education. In addition, she identifies a number of concrete educational, cultural, and social benefits of arts education. This definitive work is of major interest to policy-makers, educators and artists. Professor Anne Bamford is Director of the Engine Room at the University of the Arts London and has an international reputation for her research in arts education, emerging literacies and visual communication. Through her research as a World Scholar for UNESCO, she has pursued issues of innovation, social impact and equity and diversity. She has conducted major national impact and evaluation studies for the governments of Denmark, The Netherlands, Belgium and Australia.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9783830966173"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "3830966172"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 180,
+        "printType": "BOOK",
+        "categories": [
+          "Education"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "1.17.7.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=ZEaxmwG9n4EC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=ZEaxmwG9n4EC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.ie/books?id=ZEaxmwG9n4EC&printsec=frontcover&dq=Dorian%2520gray%2520oscar%2520wilde&hl=&cd=4&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=ZEaxmwG9n4EC&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=ZEaxmwG9n4EC"
+      },
+      "saleInfo": {
+        "country": "IE",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 19.9,
+          "currencyCode": "EUR"
+        },
+        "retailPrice": {
+          "amount": 19.9,
+          "currencyCode": "EUR"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=ZEaxmwG9n4EC&rdid=book-ZEaxmwG9n4EC&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 19900000,
+              "currencyCode": "EUR"
+            },
+            "retailPrice": {
+              "amountInMicros": 19900000,
+              "currencyCode": "EUR"
+            }
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "IE",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.ie/books/download/The_Wow_Factor-sample-epub.acsm?id=ZEaxmwG9n4EC&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.ie/books/download/The_Wow_Factor-sample-pdf.acsm?id=ZEaxmwG9n4EC&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=ZEaxmwG9n4EC&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "In addition, she identifies a number of concrete educational, cultural, and social benefits of arts education. This definitive work is of major interest to policy-makers, educators and artists."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "HKZGCgAAQBAJ",
+      "etag": "L/fRxJKW8XU",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/HKZGCgAAQBAJ",
+      "volumeInfo": {
+        "title": "The Routledge International Handbook of the Arts and Education",
+        "authors": [
+          "Mike Fleming",
+          "Liora Bresler",
+          "John O'Toole"
+        ],
+        "publisher": "Routledge",
+        "publishedDate": "2014-11-27",
+        "description": "This International Handbook brings together leading writers on Arts in Education to provide a much-needed, authoritative guide to the main debates in the field and an informed account of contemporary developments in policy and practice. Providing a detailed overview of key concepts and practical challenges, the book combines theoretical insight with specific examples of innovative projects drawing on theoretical, historical and empirical research perspectives to inform understanding. The range of content highlights the breadth of the field, addressing such issues as the importance of community arts and partnership as well as school education, and providing insight into developments in multiple and connecting arts as well as traditional art forms. Topics such as assessment, creativity, cultural diversity, special needs, the arts in early childhood, adult education, arts based research, are all addressed by recognised authorities in each area. The collection of chapters also serves to define the field of arts education, recognising its diversity but highlighting the common elements that provide its identity. The collection addresses generic issues common to all the arts while acknowledging differences and recognising the dangers of over-generalisation. It also includes specific chapters on each of the art forms (visual art, dance, drama, literature, music, media arts) providing a cutting-edge analysis of key contemporary issues in each subject. Bringing together specially commissioned pieces by a range of international authors, this Handbook will make an important contribution to the field of Arts Education.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781317586944"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "1317586948"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 583,
+        "printType": "BOOK",
+        "categories": [
+          "Education"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.7.9.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=HKZGCgAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=HKZGCgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.ie/books?id=HKZGCgAAQBAJ&printsec=frontcover&dq=Dorian%2520gray%2520oscar%2520wilde&hl=&cd=5&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=HKZGCgAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=HKZGCgAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "IE",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 59.99,
+          "currencyCode": "EUR"
+        },
+        "retailPrice": {
+          "amount": 45.65,
+          "currencyCode": "EUR"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=HKZGCgAAQBAJ&rdid=book-HKZGCgAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 59990000,
+              "currencyCode": "EUR"
+            },
+            "retailPrice": {
+              "amountInMicros": 45650000,
+              "currencyCode": "EUR"
+            }
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "IE",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.ie/books/download/The_Routledge_International_Handbook_of-sample-epub.acsm?id=HKZGCgAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.ie/books/download/The_Routledge_International_Handbook_of-sample-pdf.acsm?id=HKZGCgAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=HKZGCgAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "This International Handbook brings together leading writers on Arts in Education to provide a much-needed, authoritative guide to the main debates in the field and an informed account of contemporary developments in policy and practice."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "cEN4EAAAQBAJ",
+      "etag": "zGEEepavREo",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/cEN4EAAAQBAJ",
+      "volumeInfo": {
+        "title": "Lady Windermere's Fan",
+        "authors": [
+          "Oscar Wilde"
+        ],
+        "publisher": "Lindhardt og Ringhof",
+        "publishedDate": "2022-07-14",
+        "description": "A searing satire on the British class system, social hypocrisy, and keeping up appearances, ‘Lady Windemere’s Fan’ is one of Wilde’s best-loved plays. Such is its popularity that it has been adapted for the silver screen a number of times, most recently in 2018, with Samantha Spiro and ‘Absolutely Fabulous’ star, Jennifer Saunders. The play focuses on 21 year-old Lady Windemere, who has become convinced that her husband is embarking on an affair with the mysterious Mrs Erlynne. However, Mrs Erlynne hides a scandalous secret that sets some unexpected wheels in motion. Witty, satirical, and packed with acute social observations, ‘Lady Windemere’s Fan’ continues to grace stages around the world. A superb read for those who want to see Wilde at the height of his powers. Oscar Wilde (1854 – 1900) was an Irish novelist, poet, playwright, and wit. He was an advocate of the Aesthetic movement, which extolled the virtues of art for the sake of art. During his career, Wilde wrote nine plays, including ‘The Importance of Being Earnest,’ ‘Lady Windermere’s Fan,’ and ‘A Woman of No Importance,’ many of which are still performed today. His only novel, ‘The Picture of Dorian Gray’ was adapted for the silver screen, in the film, ‘Dorian Gray,’ starring Ben Barnes and Colin Firth. In addition, Wilde wrote 43 poems, and seven essays. His life was the subject of a film, starring Stephen Fry.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9788726598834"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "8726598833"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": false
+        },
+        "pageCount": 77,
+        "printType": "BOOK",
+        "categories": [
+          "Drama"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.4.4.0.preview.2",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=cEN4EAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=cEN4EAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.ie/books?id=cEN4EAAAQBAJ&printsec=frontcover&dq=Dorian%2520gray%2520oscar%2520wilde&hl=&cd=6&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=cEN4EAAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=cEN4EAAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "IE",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 2.28,
+          "currencyCode": "EUR"
+        },
+        "retailPrice": {
+          "amount": 2.28,
+          "currencyCode": "EUR"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=cEN4EAAAQBAJ&rdid=book-cEN4EAAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 2280000,
+              "currencyCode": "EUR"
+            },
+            "retailPrice": {
+              "amountInMicros": 2280000,
+              "currencyCode": "EUR"
+            }
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "IE",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.ie/books/download/Lady_Windermere_s_Fan-sample-epub.acsm?id=cEN4EAAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=cEN4EAAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "A superb read for those who want to see Wilde at the height of his powers. Oscar Wilde (1854 – 1900) was an Irish novelist, poet, playwright, and wit."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "fT9ZAAAAMAAJ",
+      "etag": "7A+UkTzaTgA",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/fT9ZAAAAMAAJ",
+      "volumeInfo": {
+        "title": "Metaphor in Educational Discourse",
+        "authors": [
+          "Lynne Cameron"
+        ],
+        "publisher": "Burns & Oates",
+        "publishedDate": "2003-03-15",
+        "description": "This book reports research into metaphor in use with school students. It is one of the first studies of metaphor to investigate the phenomenon in contextualised discourse, to adopt a socio-cultural approach to metaphor and to introduce the relatively new science of complex dynamic systems which offers new and potentially fruitful analogies for the analysis of educational discourse.",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "UOM:39015057598412"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 312,
+        "printType": "BOOK",
+        "categories": [
+          "Education"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.8.4.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=fT9ZAAAAMAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=fT9ZAAAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.ie/books?id=fT9ZAAAAMAAJ&q=Dorian%2520gray%2520oscar%2520wilde&dq=Dorian%2520gray%2520oscar%2520wilde&hl=&cd=7&source=gbs_api",
+        "infoLink": "http://books.google.ie/books?id=fT9ZAAAAMAAJ&dq=Dorian%2520gray%2520oscar%2520wilde&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Metaphor_in_Educational_Discourse.html?hl=&id=fT9ZAAAAMAAJ"
+      },
+      "saleInfo": {
+        "country": "IE",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "IE",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=fT9ZAAAAMAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "&#39; James P. Lantolf, Professor of Applied Linguistics, The Pennsylvania State University. This book reports research into metaphor in use with school students."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "1M9zEAAAQBAJ",
+      "etag": "ZOdEFOBkK7o",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/1M9zEAAAQBAJ",
+      "volumeInfo": {
+        "title": "A Woman of No Importance",
+        "authors": [
+          "Oscar Wilde"
+        ],
+        "publisher": "DigiCat",
+        "publishedDate": "2022-06-02",
+        "description": "In \"A Woman of No Importance,\" Oscar Wilde masterfully explores the themes of gender, morality, and social hypocrisy through sharp wit and sparkling dialogue. Set in the vibrant Victorian society, the play unfolds at a lavish social gathering, where Wilde unveils the contrasting lives of men and women, their societal expectations, and the fragile dynamics of reputation and honor. The clever interplay of characters showcases Wilde's trademark epigrams, elevating the comedic elements while prompting audiences to reflect on deeper societal truths. Through his deft use of irony and satire, he critiques the moral standards of his time, presenting a compelling commentary on the roles of women in a patriarchal society. Oscar Wilde, an emblematic figure of the late 19th-century literary scene, was known for his flamboyant style and deep engagement with contemporary social issues. His experiences as a prominent writer and his complex relationship with society undoubtedly influenced his portrayals of women and their societal predicaments. Wilde's personal trials with public perception and morality resonate strongly in the characters and dialogues of the play, making it an intimate reflection of his beliefs. This play is essential for readers who wish to delve into the intricacies of Wilde's critique of societal norms through humor and pathos. It invites both laughter and reflection, making it a timeless piece that continues to provoke thought about gender and morality. \"A Woman of No Importance\" is not merely a comedy; it is an astute and unsettling examination of societal constructs that remains profoundly relevant today.",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "EAN:8596547045861"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 76,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.4.4.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=1M9zEAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=1M9zEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.ie/books?id=1M9zEAAAQBAJ&pg=PP1&dq=Dorian%2520gray%2520oscar%2520wilde&hl=&cd=8&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=1M9zEAAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=1M9zEAAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "IE",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 1.99,
+          "currencyCode": "EUR"
+        },
+        "retailPrice": {
+          "amount": 1.99,
+          "currencyCode": "EUR"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=1M9zEAAAQBAJ&rdid=book-1M9zEAAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 1990000,
+              "currencyCode": "EUR"
+            },
+            "retailPrice": {
+              "amountInMicros": 1990000,
+              "currencyCode": "EUR"
+            }
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "IE",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.ie/books/download/A_Woman_of_No_Importance-sample-epub.acsm?id=1M9zEAAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.ie/books/download/A_Woman_of_No_Importance-sample-pdf.acsm?id=1M9zEAAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=1M9zEAAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "In &quot;A Woman of No Importance,&quot; Oscar Wilde masterfully explores the themes of gender, morality, and social hypocrisy through sharp wit and sparkling dialogue."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "mhjTEAAAQBAJ",
+      "etag": "FM4/cnrz3Kw",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/mhjTEAAAQBAJ",
+      "volumeInfo": {
+        "title": "The Duchess of Padua",
+        "subtitle": "in large print",
+        "authors": [
+          "Oscar Wilde"
+        ],
+        "publisher": "BoD – Books on Demand",
+        "publishedDate": "2023-08-26",
+        "description": "Reproduction of the original. The publishing house Megali specialises in reproducing historical works in large print to make reading easier for people with impaired vision.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9783387003000"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "3387003005"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 166,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.1.1.0.preview.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=mhjTEAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=mhjTEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.ie/books?id=mhjTEAAAQBAJ&printsec=frontcover&dq=Dorian%2520gray%2520oscar%2520wilde&hl=&cd=9&source=gbs_api",
+        "infoLink": "http://books.google.ie/books?id=mhjTEAAAQBAJ&dq=Dorian%2520gray%2520oscar%2520wilde&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_Duchess_of_Padua.html?hl=&id=mhjTEAAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "IE",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "IE",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.ie/books/download/The_Duchess_of_Padua-sample-pdf.acsm?id=mhjTEAAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=mhjTEAAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Reproduction of the original. The publishing house Megali specialises in reproducing historical works in large print to make reading easier for people with impaired vision."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "A5QOAAAAIAAJ",
+      "etag": "yZhZlwptbkQ",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/A5QOAAAAIAAJ",
+      "volumeInfo": {
+        "title": "De Profundis",
+        "authors": [
+          "Oscar Wilde"
+        ],
+        "publisher": "London : Methuen",
+        "publishedDate": "1909",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "STANFORD:36105036759483"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 188,
+        "printType": "BOOK",
+        "categories": [
+          "Authors, Irish"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "4.10.15.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=A5QOAAAAIAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=A5QOAAAAIAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.ie/books?id=A5QOAAAAIAAJ&q=Dorian%2520gray%2520oscar%2520wilde&dq=Dorian%2520gray%2520oscar%2520wilde&hl=&cd=10&source=gbs_api",
+        "infoLink": "http://books.google.ie/books?id=A5QOAAAAIAAJ&dq=Dorian%2520gray%2520oscar%2520wilde&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/De_Profundis.html?hl=&id=A5QOAAAAIAAJ"
+      },
+      "saleInfo": {
+        "country": "IE",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "IE",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": true
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=A5QOAAAAIAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    }
+  ]
+}

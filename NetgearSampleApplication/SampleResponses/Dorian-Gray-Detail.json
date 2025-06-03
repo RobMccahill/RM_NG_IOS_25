@@ -1,0 +1,51 @@
+{
+    "kind": "books#volume",
+    "id": "dZo6DAAAQBAJ",
+    "etag": "puBS1EpQJP8",
+    "selfLink": "https://www.googleapis.com/books/v1/volumes/dZo6DAAAQBAJ",
+    "volumeInfo": {
+        "title": "The Picture of Dorian Gray",
+        "authors": [
+            "Oscar Wilde"
+        ],
+        "publisher": "Xist Publishing",
+        "publishedDate": "2016-03-24",
+        "description": "The Picture of Dorian Gray by Oscar Wilde from Coterie Classics <p> All Coterie Classics have been formatted for ereaders and devices and include a bonus link to the free audio book. <p>“Those who find ugly meanings in beautiful things are corrupt without being charming. This is a fault. Those who find beautiful meanings in beautiful things are the cultivated. For these there is hope. They are the elect to whom beautiful things mean only Beauty. There is no such thing as a moral or an immoral book. Books are well written, or badly written. That is all.” ― Oscar Wilde, The Picture of Dorian Gray <br> A man sells his soul for eternal youth and scandalizes the city in Oscar Wilde's The Picture of Dorian Gray.</p></p>",
+        "industryIdentifiers": [
+            {
+                "type": "ISBN_10",
+                "identifier": "168195897X"
+            },
+            {
+                "type": "ISBN_13",
+                "identifier": "9781681958972"
+            }
+        ],
+        "readingModes": {
+            "text": true,
+            "image": true
+        },
+        "pageCount": 255,
+        "printedPageCount": 229,
+        "printType": "BOOK",
+        "categories": [
+            "Fiction / Classics",
+            "Fiction / Literary",
+            "Fiction / Fantasy / Dark Fantasy"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "1.3.2.0.preview.3",
+        "panelizationSummary": {
+            "containsEpubBubbles": false,
+            "containsImageBubbles": false
+        },
+        "imageLinks": {
+            "smallThumbnail": "http://books.google.com/books/publisher/content?id=dZo6DAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&imgtk=AFLRE72pkTikhyw-gQzxyG_fgX6myi1IdUsodC7E4760wm4f5XUV75L45rlQM7QdBQgXVvjUezREHqnJrM50LR5wYi-a47UkoB1iiQqPmd6LJa498xBqSnYfOYFKGsLWE11Oqr9Ss2QN&source=gbs_api",
+            "thumbnail": "http://books.google.com/books/publisher/content?id=dZo6DAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&imgtk=AFLRE72qHkNgtOQ1CSvTA3hmgb33kiPYJjPIxN39nzNZBPLZt04XFpzjSPDqKJTgeAgdljI70X2t8Am6kbynfhaDTs1e49oTRx6O7cW5cYXtoiZm8Rc4-1-N0tIM-SJKCe-6BU3ih4QY&source=gbs_api",
+            "small": "http://books.google.com/books/publisher/content?id=dZo6DAAAQBAJ&printsec=frontcover&img=1&zoom=2&edge=curl&imgtk=AFLRE73-vcyx0T4y2QpbTgwW8BZKjK8a5ZYqpJ8aXkJo5aj6taw7cF0KTJLo9Ap8kTgvnaZM4QFxW3OYzBHuWnUtoIY_RniD93j184-ivE5-zKXfgTy5MfKxEuZXRlF31ZV4yYAQRe-J&source=gbs_api",
+            "medium": "http://books.google.com/books/publisher/content?id=dZo6DAAAQBAJ&printsec=frontcover&img=1&zoom=3&edge=curl&imgtk=AFLRE71RFLTTd6B_dn7u-goP-RgFob9GSGM4Wcmh_Fzdfurjir4pgN6PveOzMeh83OI3_m3hU1bbO17gMYbnVnXuv65ys2HW2sOfKbFCJdph4B7BxeI2uUTqD2URzyWeNGzi_JHE9qaj&source=gbs_api"
+        }
+    }
+}
+
