@@ -4,7 +4,10 @@ This is an assessment project that allows a user to search for a list of books, 
 
 ## Setup
 
-The project should compile as-is, the only setup step is to add an API key. In the NetgearSampleApplication/Dependencies/Constants.swift file, there's a API_KEY variable where you can include your google API key with books access. If you don't have an API key, please reach out and I can provide one.
+The project should compile as-is, the only setup step is to add an API key. 
+**Edit:** From some testing, I seem to be able to get some responses without having to provide an API Key, so to get results back you might not have to have one. 
+
+In any case, if you do run into errors, you can add an API key In the NetgearSampleApplication/Dependencies/Constants.swift file, there's a API_KEY variable where you can include your google API key with books access. If you don't have an API key, please reach out and I can provide one.
 
 ## Project structure / details
 
